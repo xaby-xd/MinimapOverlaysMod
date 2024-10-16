@@ -1,0 +1,12 @@
+{
+  "name": "minimap_overlays_mod",
+  "version": "0.1.0",
+  "title": "Minimap Overlays Mod",
+  "author": "xabyxd",
+  "description": "This mod adds minimap overlays for pollution and nearby enemies using flib. Still in development, expect bugs and issues.",
+  "homepage": "https://github.com/xaby-xd/MinimapOverlaysMod",
+  "factorio_version": "1.1",
+  "dependencies": ["flib >= 0.9.0"],
+  "icon": "__minimap_overlays_mod__/graphics/icon.png",
+  "settings": "settings.lua"
+}
